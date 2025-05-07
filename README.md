@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Emad<br>🎓 11th-grade vocational student specializing in Networking<br>💻 Aspiring Front-End Developer proficient in HTML, CSS & JavaScript<br>⚛️ Currently learning React and modern web tooling<br>🌱 Passionate about building responsive, accessible, user-centric interfaces<br>🤝 Always open to collaboration and contributing to open-source projects
+👋 Hi, I’m Emad<br>💻 Aspiring Front-End Developer proficient in HTML, CSS & JavaScript<br>⚛️ Currently learning React and modern web tooling<br>🌱 Passionate about building responsive, accessible, user-centric interfaces<br>🤝 Always open to collaboration and contributing to open-source projects
 
 
 ## 🌐 Socials:
