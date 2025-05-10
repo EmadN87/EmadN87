@@ -12,6 +12,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=fakes1011&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fakes1011&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakes1011/fakes1011/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fakes1011/fakes1011/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fakes1011/fakes1011/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
